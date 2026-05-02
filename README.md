@@ -30,6 +30,7 @@ This component is designed to show a summary of a blog post, including a categor
 - Fully Responsive: The card adjusts its width to 80% on screens smaller than 450px, ensuring a great mobile experience.
 - Centered Layout: Uses CSS Flexbox on the body to keep the card perfectly centered regardless of screen size.
 - Optimized Typography: Carefully chosen line heights (24px for description) and font weights for better readability.
+- Vibrant yellow palette
 
 ### Screenshot
 
@@ -52,8 +53,8 @@ The card consists of the following sections:
 
 ### Links
 
-- Solution URL: [Add your GitHub URL here]
-- Live Site URL: [Add your live URL (Vercel, Netlify, or GitHub Pages) here]
+- Solution URL: https://github.com/nurscodee/Blog-Preview-Card
+- Live Site URL: [Live Site](https://nurscodee.github.io/Blog-Preview-Card/)
 
 ### Built with
 
