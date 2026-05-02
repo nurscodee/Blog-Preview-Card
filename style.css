@@ -64,4 +64,7 @@ body {
   .card {
     width: 80%;
   }
+  .tag {
+    width: 35%;
+  }
 }
