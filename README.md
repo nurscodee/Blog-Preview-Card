@@ -53,8 +53,8 @@ The card consists of the following sections:
 
 ### Links
 
-- Solution URL: https://github.com/nurscodee/Blog-Preview-Card
-- Live Site URL: [Live Site](https://nurscodee.github.io/Blog-Preview-Card/)
+- Solution URL: https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
+- Live Site URL: https://nurscodee.github.io/Blog-Preview-Card/
 
 ### Built with
 
